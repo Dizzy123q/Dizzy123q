@@ -18,25 +18,23 @@ My interests sit at the intersection of security and development — writing scr
 
 ## Tech stack
 
-**Languages**
+```
+Languages        Python · JavaScript · Bash
+Frameworks       Django · PyQt · Tailwind CSS
+Databases        MySQL · PostgreSQL
+Tools            Git · Docker · VS Code · Vim
+Cloud            AWS (EC2 · S3 · RDS)
+OS               Linux · Windows · macOS
+```
 
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnubash&logoColor=white)
-
-**Frameworks & Libraries**
-
 ![Django](https://img.shields.io/badge/Django-000?style=flat-square&logo=django&logoColor=white)
 ![PyQt](https://img.shields.io/badge/PyQt-000?style=flat-square&logo=qt&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Databases**
-
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=white)
-
-**Tools & Platforms**
-
 ![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000?style=flat-square&logo=visualstudiocode&logoColor=white)
