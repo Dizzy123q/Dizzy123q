@@ -49,8 +49,8 @@ My interests sit at the intersection of security and development — writing scr
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=333&title_color=fff&text_color=888&icon_color=fff&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=0d0d0d&border_color=333&title_color=fff&text_color=888&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dizzy123q&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=333&title_color=fff&text_color=888&icon_color=fff&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dizzy123q&layout=compact&theme=dark&bg_color=0d0d0d&border_color=333&title_color=fff&text_color=888&hide_border=false" height="150"/>
 </p>
 
 <br>
