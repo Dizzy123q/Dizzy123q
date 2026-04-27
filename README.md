@@ -27,13 +27,6 @@ My interests sit at the intersection of security and development — writing scr
 
 <br>
 
-## GitHub stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dizzy123q&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=333&title_color=fff&text_color=888&icon_color=fff&hide_border=false" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dizzy123q&layout=compact&theme=dark&bg_color=0d0d0d&border_color=333&title_color=fff&text_color=888&hide_border=false" height="150"/>
-
-<br>
-
 ## Get in touch
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL)
