@@ -12,7 +12,7 @@ I'm a software engineer with a background in IT and a Master's degree in Cyberse
 I've been programming since my first year of university, with a strong preference for Python, and have worked on startup projects along the way.
 
 I'm passionate about Linux systems, cybersecurity, and building software that is reliable, efficient, and solves real problems.
-My interests sit at the intersection of security and development — writing scripts, hardening servers, or building applications.
+My interests sit at the intersection of security and development — writing scripts, hardening servers, and building applications.
 
 <br>
 
