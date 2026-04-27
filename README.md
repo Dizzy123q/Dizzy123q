@@ -1,6 +1,6 @@
-<h1 align="center">Hey, I'm Andrei 👋</h1>
+<h1>Hey, I'm Andrei 👋</h1>
 
-<p align="center">
+<p>
   Software engineer from Romania · Cybersecurity MSc · Passionate about Linux, security & building things that work
 </p>
 
@@ -48,10 +48,8 @@ My interests sit at the intersection of security and development — writing scr
 
 ## GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dizzy123q&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=333&title_color=fff&text_color=888&icon_color=fff&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dizzy123q&layout=compact&theme=dark&bg_color=0d0d0d&border_color=333&title_color=fff&text_color=888&hide_border=false" height="150"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Dizzy123q&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=333&title_color=fff&text_color=888&icon_color=fff&hide_border=false" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dizzy123q&layout=compact&theme=dark&bg_color=0d0d0d&border_color=333&title_color=fff&text_color=888&hide_border=false" height="150"/>
 
 <br>
 
